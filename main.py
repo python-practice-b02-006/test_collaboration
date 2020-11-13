@@ -1,20 +1,12 @@
 class OurGroup():
     def __init__(self):
-
-
+        Sinitsa()
         self.povolotskii()
-        
-    
-
-     
-
-        kuzin()     
-
+        kuzin()    
         Koshchei()
         kolganov()
         stepanova()
         tambovtsev()
-
         razin()
 
     def kolganov(self):
