@@ -1,5 +1,6 @@
 class OurGroup():
     def __init__(self):
+        stepanova()
         tambovtsev()
 
     def kolganov(self):
@@ -27,7 +28,7 @@ class OurGroup():
         pass
 
     def povolotskii_mr(self):
-        print("I am Povolotskii)
+        print("I am Povolotskii")
 
     def gribova(self):
         print("I am NG")
