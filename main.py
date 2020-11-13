@@ -1,6 +1,7 @@
 class OurGroup():
     def __init__(self):
         self.Philipp()
+        kuzin()     
         Koshchei()
         kolganov()
         stepanova()
