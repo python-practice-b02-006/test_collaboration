@@ -1,11 +1,13 @@
 class OurGroup():
     def __init__(self):
-        self.Philipp()
+        Philipp()
+        povolotskii()
         kuzin()     
         Koshchei()
         kolganov()
         stepanova()
         tambovtsev()
+        razin()
     def kolganov(self):
         print("I am kolganov")
 
