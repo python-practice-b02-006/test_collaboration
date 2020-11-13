@@ -1,5 +1,6 @@
 class OurGroup():
     def __init__(self):
+        kuzin()     
         Koshchei()
         kolganov()
         stepanova()
