@@ -1,7 +1,8 @@
 class OurGroup():
     def __init__(self):
-      
+     
         kolganov()
+        stepanova()
         tambovtsev()
 
     def kolganov(self):
