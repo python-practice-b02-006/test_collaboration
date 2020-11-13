@@ -7,11 +7,15 @@ class OurGroup():
     
 
      
+
+        kuzin()     
+
         Koshchei()
         kolganov()
         stepanova()
         tambovtsev()
 
+        razin()
 
     def kolganov(self):
         print("I am kolganov")
