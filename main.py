@@ -1,13 +1,22 @@
 class OurGroup():
     def __init__(self):
-        new-razin-branch
+
+
+        self.povolotskii()
+        
+    
+
+     
+
         kuzin()     
+
         Koshchei()
         kolganov()
         stepanova()
         tambovtsev()
+
         razin()
-        
+
     def kolganov(self):
         print("I am kolganov")
 
