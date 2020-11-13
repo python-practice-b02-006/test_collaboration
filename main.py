@@ -1,6 +1,6 @@
 class OurGroup():
     def __init__(self):
-        pass
+        kuzin()
     
     def kolganov(self):
         print("I am kolganov")
