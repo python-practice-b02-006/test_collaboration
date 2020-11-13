@@ -2,6 +2,7 @@ class OurGroup():
     def __init__(self):
         stepanova()
         tambovtsev()
+        gromov()
 
     def kolganov(self):
         print("I am kolganov")
