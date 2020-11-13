@@ -1,8 +1,10 @@
 class OurGroup():
     def __init__(self):
+        
         stepanova()
         tambovtsev()
-
+        razin()
+        
     def kolganov(self):
         print("I am kolganov")
 
