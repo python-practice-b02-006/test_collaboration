@@ -1,6 +1,9 @@
 class OurGroup():
     def __init__(self):
-        
+        new-razin-branch
+        kuzin()     
+        Koshchei()
+        kolganov()
         stepanova()
         tambovtsev()
         razin()
