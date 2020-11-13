@@ -1,11 +1,13 @@
 class OurGroup():
     def __init__(self):
 
+
         self.povolotskii()
-        pass
+        
     
 
      
+        Koshchei()
         kolganov()
         stepanova()
         tambovtsev()
