@@ -1,13 +1,14 @@
 class OurGroup():
     def __init__(self):
         stepanova()
-    
+        tambovtsev()
+
     def kolganov(self):
         print("I am kolganov")
 
     def povolotskii(self):
         print("Let's talk about bromine")
-    
+
     def razin(self):
         print("— Allo, eto prachechnaya? — Da")
 
@@ -22,7 +23,7 @@ class OurGroup():
 
     def Sinitsa(self):
         print("I am Sinitsa")
-    
+
     def gromov(self):
         pass
 
@@ -34,7 +35,7 @@ class OurGroup():
 
     def kuzin(self):
         print("I am kuzin")
-        
+
     def Philipp(self):
         print("Филипп")
 
@@ -46,6 +47,6 @@ class OurGroup():
 
     def zepopa(self):
         print("popazepopa")
-    
+
     def stepanova(self):
         print("I am Dasha")
